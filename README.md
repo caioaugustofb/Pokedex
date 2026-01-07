@@ -1,4 +1,4 @@
-# Pokedex Next.js 15
+## Pokedex Next.js 15
 
 Uma Pokedex moderna e performática desenvolvida para explorar as capacidades do **Next.js 15** com **Client-Side Rendering** otimizado. O projeto consome a [PokeAPI](https://pokeapi.co/) e oferece uma experiência de busca instantânea e fluida.
 
@@ -25,16 +25,24 @@ Este projeto foi desenvolvido utilizando a stack mais atual do mercado:
 ## Como rodar o projeto
 
 1. Clone o repositório:
+```bash
 git clone [https://github.com/caioaugustofb/Pokedex.git](https://github.com/caioaugustofb/Pokedex.git)
+```
 
 2. Entre na pasta do projeto:
+```bash
 cd Pokedex
+```
 
 3. Instale as dependências:
+```bash
 npm install
+```
 
 4. Rode o servidor de desenvolvimento:
+```bash
 npm run dev
+```
 
 5. Abra o navegador em http://localhost:3000.
 
@@ -61,4 +69,4 @@ Manipulação de parâmetros de URL (useSearchParams) no Next.js 15.
 Debouncing e controle de formulários no React.
 
 --------------------------------------------------------------------------------------
-Desenvolvido por Caio Augusto
+_Desenvolvido por Caio Augusto_
